@@ -1,5 +1,5 @@
 # FE_Engage
-## Author: Kevin Stull 
+## Author: Kevin Brar
 Data Science for Fire Emblem Engage 
 
 ## Reader's Note
